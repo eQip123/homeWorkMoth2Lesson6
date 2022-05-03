@@ -19,7 +19,7 @@ case newsSummary.tableOfContents.rawValue :
 case newsEcology.tableOfContents.rawValue:
     print(newsEcology.content)
 default:
-    print("Введите еще раз")
+    print("Ничего не найдено")
 }
 
 
